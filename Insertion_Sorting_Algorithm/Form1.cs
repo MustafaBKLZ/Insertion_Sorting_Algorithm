@@ -35,6 +35,7 @@ namespace Insertion_Sorting_Algorithm
                 }
                 sayilar[j + 1] = deger;
                 textBox1.Text += string.Join(",", sayilar) + Environment.NewLine;
+
             }
         }
     }
